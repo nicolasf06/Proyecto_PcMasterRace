@@ -1,14 +1,13 @@
 # Pc Master Race
 
-El obejtivo de esta aplicaciones es la venta y consultas de componenetes para computadoras.
+El obejtivo de este proyecto es la consulta de componetenes de computadoras al igual que la reedireccion para comprarlos.
 
 
 ## Funcionalidades
 
-- Permite a los usuarios consultar cómo armar una PC según los componentes que ellos elijan. Todo el proceso se realiza automáticamente mediante consultas a una base de datos.
+- Permite a los usuarios consultar a partir de los componentes que ellos elija la compatibilida de estos. Todo el proceso se realiza automáticamente mediante consultas a una base de datos.
+- Permite armar computadoras para cosultar costos.
 - Los usuarios pueden registrarse en la aplicación para guardar sus configuraciones de PC y, además, serán redirigidos a sitios como Amazon o Mercado Libre para comprar los componentes que seleccionaron.
-- Fullscreen mode
-- Cross platform
 
 
 ## Publico Dirigido
